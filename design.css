@@ -1,0 +1,83 @@
+body{
+    background-color: rgba(255, 174, 0, 0.911);
+ font-family: Arial, Helvetica, sans-serif;
+}
+.mainbody{
+    background-color: white;
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    border-radius: 10px;
+     margin-left: 200px;
+     margin-top: 60px;
+}
+ul,li{
+    display: inline;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.header1{
+    position: absolute;
+  
+    margin-top: 20px;
+}
+.discrip{
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 80px;
+}
+.inputs{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 80px;
+
+}
+.order{
+ margin-top: 0px;
+ margin-bottom: 0px;
+ font-size: 50px;
+}
+.Fast{
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(255, 30, 0, 0.932);
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+.bar{
+    height: 25px;
+    width: 200px;
+}
+.buttons{
+    background-color: rgba(255, 30, 0, 0.932);
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    color: white;
+    border-style: none;
+    border-radius: 15px;
+    margin-left:15px;
+}
+.picture1{
+    position: absolute;
+    
+
+}
+.pic{
+    width: 300px;
+    margin-left: 600px;
+    margin-top:80px;
+}
+.circle{
+    background-color: gray;
+    width: 450px;
+    height: 350px;
+    border-radius: 300px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top:50px;
+
+}
